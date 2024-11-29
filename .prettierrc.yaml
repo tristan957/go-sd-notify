@@ -1,0 +1,7 @@
+# SPDX-License-Identifier: MIT-0
+#
+# SPDX-FileCopyrightText: 2024 Tristan Partin <tristan@partin.io>
+
+printWidth: 80
+useTabs: false
+proseWrap: always
