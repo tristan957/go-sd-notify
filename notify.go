@@ -1,6 +1,7 @@
 /* SPDX-FileCopyrightText: 2024 Tristan Partin <tristan@partin.io>
  *
  * SPDX-License-Identifier: MIT-0
+ * hello
  */
 
 package notify
