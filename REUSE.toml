@@ -1,0 +1,16 @@
+# SPDX-License-Identifier: MIT-0
+#
+# SPDX-FileCopyrightText: 2024 Tristan Partin <tristan@partin.io>
+
+version = 1
+SPDX-HomePage = "https://github.com/tristan957/go-sd-notify"
+SPDX-PackageName = "go-sd-notify"
+
+[[annotations]]
+path = [
+  "go.mod",
+  "package.json",
+]
+precedence = "override"
+SPDX-FileCopyrightText = "2024 Tristan Partin <tristan@partin.io>"
+SPDX-License-Identifier = "MIT-0"
